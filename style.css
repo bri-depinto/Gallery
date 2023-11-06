@@ -2,3 +2,16 @@
     background-image:url(https://picsum.photos/1300/500);
     background-position:center center;
 }
+.navbar-brand{
+    font-family: 'Rochester', cursive;
+    font-size: 35px;
+}
+.nav-link{
+    font-family: 'Rochester', cursive;
+    font-size: 25px;
+}
+.dropdown-item{
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
