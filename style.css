@@ -1,5 +1,5 @@
 .bg-hero-image {
-    background-image:url(https://picsum.photos/1300/500);
+    background-image:url(//imgs/sunset.avif);
     background-position:center center;
 }
 .navbar-brand{
@@ -13,5 +13,10 @@
 .dropdown-item{
     font-family: 'Shadows Into Light Two', cursive;
     font-size: 15px;
+    letter-spacing: 2px;
+}
+.wordsinpic{
+    font-family: 'Shadows Into Light Two', cursive;
+    font-weight: 900;
     letter-spacing: 2px;
 }
