@@ -1,3 +1,7 @@
+body{
+    background-color: lightgray;
+}
+
 .bg-hero-image {
     background-image: url(/imgs/pastel-cyan-mint-liquid-marble-watercolor-background-with-white-lines-brush-stains-teal-turquoise-marbled-alcohol-ink-drawing-effect-vector-illustration-backdrop-watercolour-wedding-invitation_353323-634.jpg.avif);
     background-position: center center;
@@ -29,7 +33,7 @@
     color: #000000;
     font-size: 40px;
 }
-.border {
+.textt {
     color: black;
     font-family: 'Patrick Hand', cursive;
     font-size: 18px;
@@ -37,15 +41,15 @@
 .btn{
     color: teal;
     background-color: #afeeee;
-    border-color: #eee8aa;
-    border-width: 5px;
+    border-color: teal;
+    border-width: 2px;
     font-family: 'Rochester', cursive;
     font-size: 25px;
 
 }
 .btn:hover{
-    color: teal;
-    background-color: #eee8aa;
+    color: #afeeee;
+    background-color: teal;
     font-family: 'Rochester', cursive;
     font-size: 25px;
 }
@@ -53,11 +57,13 @@
  font-family: 'Shadows Into Light Two', cursive;
  letter-spacing: 2px;
  font-weight: 600;
+ 
 }
 .card-text{
     font-family: 'Patrick Hand', cursive;
 }
 .card{
-    border-color: #afeeee;
-    border-width: 4px;
+    border-color: darkgrey;
+    border-width: 2.5px;
+    background-color: rgb(229, 228, 228);
 }
