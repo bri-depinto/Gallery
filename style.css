@@ -18,9 +18,20 @@
     font-size: 15px;
     letter-spacing: 2px;
 }
+.dropdown-menu > li > a:hover {
+    background-color: #afeeee;
+    color: teal;
+    font-weight: bolder;
+}
 
 .wordsinpic {
     font-family: 'Shadows Into Light Two', cursive;
-    font-weight: 900;
     letter-spacing: 2px;
+    color: #000000;
+    font-size: 40px;
+}
+.border {
+    color: black;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 18px;
 }
