@@ -21,7 +21,6 @@
 .dropdown-menu > li > a:hover {
     background-color: #afeeee;
     color: teal;
-    font-weight: bolder;
 }
 
 .wordsinpic {
@@ -34,4 +33,31 @@
     color: black;
     font-family: 'Patrick Hand', cursive;
     font-size: 18px;
+}
+.btn{
+    color: teal;
+    background-color: #afeeee;
+    border-color: #eee8aa;
+    border-width: 5px;
+    font-family: 'Rochester', cursive;
+    font-size: 25px;
+
+}
+.btn:hover{
+    color: teal;
+    background-color: #eee8aa;
+    font-family: 'Rochester', cursive;
+    font-size: 25px;
+}
+.card-title{
+ font-family: 'Shadows Into Light Two', cursive;
+ letter-spacing: 2px;
+ font-weight: 600;
+}
+.card-text{
+    font-family: 'Patrick Hand', cursive;
+}
+.card{
+    border-color: #afeeee;
+    border-width: 4px;
 }
