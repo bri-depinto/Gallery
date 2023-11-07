@@ -1,21 +1,25 @@
 .bg-hero-image {
-    background-image:url(//imgs/sunset.avif);
-    background-position:center center;
+    background-image: url(https://picsum.photos/600/400);
+    background-position: center center;
 }
-.navbar-brand{
+
+.navbar-brand {
     font-family: 'Rochester', cursive;
     font-size: 35px;
 }
-.nav-link{
+
+.nav-link {
     font-family: 'Rochester', cursive;
     font-size: 25px;
 }
-.dropdown-item{
+
+.dropdown-item {
     font-family: 'Shadows Into Light Two', cursive;
     font-size: 15px;
     letter-spacing: 2px;
 }
-.wordsinpic{
+
+.wordsinpic {
     font-family: 'Shadows Into Light Two', cursive;
     font-weight: 900;
     letter-spacing: 2px;
