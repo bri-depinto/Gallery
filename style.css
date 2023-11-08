@@ -25,6 +25,7 @@ body{
 .dropdown-menu > li > a:hover {
     background-color: #afeeee;
     color: teal;
+    transition:0.3s;
 }
 
 .wordsinpic {
