@@ -3,7 +3,7 @@ body{
 }
 
 .bg-hero-image {
-    background-image: url(/imgs/pastel-cyan-mint-liquid-marble-watercolor-background-with-white-lines-brush-stains-teal-turquoise-marbled-alcohol-ink-drawing-effect-vector-illustration-backdrop-watercolour-wedding-invitation_353323-634.jpg.avif);
+    background-image: url(/imgs/marble.jpg.avif);
     background-position: center center;
 }
 
@@ -25,6 +25,7 @@ body{
 .dropdown-menu > li > a:hover {
     background-color: #afeeee;
     color: teal;
+    transition:0.3s;
 }
 
 .wordsinpic {
@@ -66,4 +67,8 @@ body{
     border-color: darkgrey;
     border-width: 2.5px;
     background-color: rgb(229, 228, 228);
+}
+.wordsatbottom{
+    text-decoration:none ;
+    color: black;
 }
